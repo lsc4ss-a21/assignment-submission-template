@@ -3,13 +3,13 @@
 
 For your code in each question, you can either directly cite them in your README.md by using code blocks like this (Note: They still should be included as files in your assignment repository):
 
-``` 
+```python
 import numpy as np
 
 print('This is a code block for question 1')
 ```
 
-Or use hyperlink to make sure us can open the right file. Like this: Codes for question 1 [q1a.py](https://github.com/lsc4ss-a21/assignment-1-jinfei1125/blob/main/q1a.py) and [q1b.py](https://github.com/lsc4ss-a21/assignment-1-jinfei1125/blob/main/q1b.py). Your codes should all 
+Or use hyperlink to make sure us can open the right file. Like this: Codes for question 1 [q1a.py](https://github.com/lsc4ss-a21/assignment-1-jinfei1125/blob/main/q1a.py) and [q1b.py](https://github.com/lsc4ss-a21/assignment-1-jinfei1125/blob/main/q1b.py).
 
 Note you will only know the link of the files in the repository after you pushed/uploaded them. So this means you would need to update your README.md after you pushed all the codes to your repository. Though, the format of url is always `https://github.com/lsc4ss-a21/repository name/blob/main/filename`. 
 
