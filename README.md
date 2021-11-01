@@ -17,4 +17,6 @@ print('This is a code block for question 1')
 
 Here is a tutorial on how to create [links](https://www.markdownguide.org/basic-syntax/#links) and [code blocks](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks) in a markdown. 
 
+Also, please use `<img src="./images/q2_solu.png">` or `![](images/q2_solu.png)` to attach all the required plots in the markdown file (`images/q2_solu.png` is the path of image file in your repository). That is, **the markdown file is expected to be a self-sufficient sheet for the assignment.**
+
 While I agree that naming a file in an comprehensive way is a good habit, to make it grader-friendly, just name your file in a short and simple way, like `q1.py`,`q1_plot.py`, `q2.py`, etc. Thanks!
