@@ -1,8 +1,7 @@
-# assignment-1-jinfei1125
+# How to help graders find your codes correctly and quickly
 
-# Question 1
 
-For your code in question 1, you can either directly cite them in your README.md by using code blocks like this (Note: They still should be included as files in your assignment repository):
+For your code in each question, you can either directly cite them in your README.md by using code blocks like this (Note: They still should be included as files in your assignment repository):
 
 ``` 
 import numpy as np
